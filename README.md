@@ -46,14 +46,7 @@ The dataset consists of sales, customer, and product data from AdventureWorks Cy
 
 ## 📌 Future Enhancements  
 - Implementing **AI-driven insights** with **Key Influencers & Smart Narratives**  
-- Enhancing report interactivity with **dynamic parameters**  
-
----
-
-## 🔗 Repository Structure  
-📂 `Data` → Contains raw and transformed data files  
-📂 `Dashboard` → Power BI report file (.pbix)  
-📂 `Screenshots` → Dashboard visuals  
+- Enhancing report interactivity with **dynamic parameters**
 
 ---
 
